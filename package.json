@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@glacier-network/client": "^0.2.0",
+    "@types/axios": "^0.14.0",
+    "ethers": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.2"
+  }
+}
